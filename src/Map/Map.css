@@ -1,0 +1,15 @@
+@import "leaflet/dist/leaflet.css";
+
+.map { 
+    height: 800px !important; 
+    width: 100% !important;
+    z-index: 1 !important;
+    position: relative;
+}
+
+.map .leaflet-container {
+    height: 100% !important;
+    width: 100% !important;
+    z-index: 1 !important;
+    position: relative;
+  }
