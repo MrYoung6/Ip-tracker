@@ -38,7 +38,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [site URL](https://ipaddytracker.netlify.app/)
 
 ## My process
 
@@ -59,6 +59,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aaron Young]()
+- Website - [Aaron Young](https://ipaddytracker.netlify.app/)
 - Frontend Mentor - [@MrYoung6](https://www.frontendmentor.io/profile/MrYoung6)
 
