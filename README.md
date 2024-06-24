@@ -31,7 +31,6 @@ Users should be able to:
 
 ![Alt text](images/localhost_3000_%20(2).png)
 
-![Alt text](images/pattern-bg-mobile.png)
 
 #### Mobile
 
@@ -60,6 +59,6 @@ Users should be able to:
 
 ## Author
 
-- Website - [Aaron Young](https://www.your-site.com)
+- Website - [Aaron Young]()
 - Frontend Mentor - [@MrYoung6](https://www.frontendmentor.io/profile/MrYoung6)
 

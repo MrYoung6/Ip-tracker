@@ -43,7 +43,7 @@ const Header = () => {
             setIsLoading(false);
         }
 
-    },[apiKey, setUserLocation]);
+    }, [apiKey, setUserLocation]);
 
     useEffect(() => {
         navigator.geolocation.getCurrentPosition(
@@ -114,11 +114,11 @@ const Header = () => {
             {isLoading && !searchResults && (
                 <div className="loader-container">
                     <FadeLoader
-                    color="white"
-                    size={60}
+                        color="white"
+                        size={60}
                     />
                 </div>
-                    )}
+            )}
             {searchResults && (
                 <div className='results'>
                     <div className='section-info'>
